@@ -3,8 +3,7 @@
 **CTF:** LemonCTF
 **Challenge:** Echoes of the Abyss
 **Category:** OSINT
-**Points:** 720
-**Author:** ShadowEternity
+**Author:** Nikhil Jones A
 
 ## Challenge Description
 > A nameless knight, long forgotten by the flame, has scattered fragments of their soul across the digital abyss.
