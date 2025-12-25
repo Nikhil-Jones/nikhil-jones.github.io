@@ -1,5 +1,6 @@
-theme: jekyll-theme-midnight
-title: Echoes of the Abyss Writeup
+theme: jekyll-theme-hacker
+title: Echoes of the Abyss
 description: CTF Writeup by Nikhil Jones A
 url: "https://nikhil-jones.github.io"
 baseurl: ""
+show_downloads: true
